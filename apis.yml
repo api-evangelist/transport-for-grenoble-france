@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html
 common:
+  - type: DomainSecurity
+    url: security/transport-for-grenoble-france-domain-security.yml
   - type: Website
     url: https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html
   - type: PublicAPIsListing
