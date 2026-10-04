@@ -39,7 +39,6 @@ apis:
   - name: Transport for Grenoble, France
     description: "Grenoble public transport"
     humanURL: https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html
-    baseURL: https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html
     tags:
       - Transportation
     properties:
